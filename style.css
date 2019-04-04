@@ -1,0 +1,35 @@
+h1 {
+    color:purple;
+    font-size: 50px;
+    font-family: Script,Serif
+}
+
+body, html {
+    height: 100%;
+    
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("dna-repair-illustration_3x2.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    
+}
+
+h2 {
+    
+}
+
+h3 {
+
+}
