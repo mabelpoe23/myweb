@@ -1,12 +1,13 @@
 h1 {
+    text-align: center;
     color:purple;
     font-size: 50px;
-    font-family: Script,Serif
+    font-family: lobster,cursive;
 }
 
 body, html {
     height: 100%;
-    
+   
 }
 
 .bg { 
@@ -22,14 +23,30 @@ body, html {
     background-size: cover;
 }
 
+.bg1 {
+    background-image: url("background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .nav {
     
 }
 
 h2 {
+    text-align: center;
+    color:red;
+    font-size: 30px;
+    font-family: Lobster,cursive;
     
 }
 
 h3 {
+    font-family: lobster,cursive;
 
+}
+
+p {
+    font-family: lobster, cursive;
 }
