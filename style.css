@@ -50,3 +50,25 @@ h3 {
 p {
     font-family: lobster, cursive;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+    width: 200px;
+  background-color: #f1f1f1;
+}
+
+li {
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.center {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  border: 3px solid green;
+  padding: 10px;
+}
