@@ -30,7 +30,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.nav {
+
+.mg {
+    margin: 25px 50px 25px;
     
 }
 
